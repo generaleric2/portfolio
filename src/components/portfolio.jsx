@@ -6,25 +6,25 @@ const items = [
   {
     id: 1,
     title: "Node Commerce",
-    img: "/images/screen.png",
+    img: "/portfolio/images/screen.png",
     desc: "I developed a cutting-edge ecommerce platform using Node.js, Express, and MongoDB, delivering a seamless shopping experience with a user-friendly interface, secure authentication, and efficient checkout. The robust backend, powered by Node.js and Express, seamlessly manages data stored in MongoDB. The project showcases my expertise in full-stack development, emphasizing efficiency, security, and a superior user experience",
   },
   {
     id: 2,
     title: "Security App",
-    img: "/images/app2.png",
+    img: "/portfolio/images/app2.png",
     desc: "Designed and implemented a mobile application for the Uganda Police using Dart and Flutter, providing law enforcement officers with a powerful and intuitive tool. The app, built with Flutter's cross-platform capabilities, ensures seamless performance on both iOS and Android devices. Leveraging Dart's flexibility and Flutter's rich UI components, the application enhances police operations with features like real-time data access, incident reporting, and streamlined communication, contributing to a more efficient and responsive law enforcement system.",
   },
   {
     id: 3,
     title: "ELearning App",
-    img: "/images/screen2.png",
+    img: "/portfolio/images/screen2.png",
     desc: "Developed a robust eLearning platform for Refactory using React, Node.js, Express, MongoDB, and JWT authentication. The frontend, built with React, offers an engaging user interface, while the backend, powered by Node.js and Express, seamlessly integrates with MongoDB for efficient data management. The incorporation of JWT ensures secure and seamless user authentication, contributing to a feature-rich eLearning experience that aligns with Refactory's educational goals.",
   },
   {
     id: 4,
     title: "React Native App",
-    img: "/images/app.png",
+    img: "/portfolio/images/app.png",
     desc: "Crafted a dynamic ecommerce mobile app using React Native and Expo (EAS) to achieve cross-platform compatibility. The app combines the power of React Native for a native-like experience and Expo's EAS build system for streamlined development and deployment. With a focus on intuitive design and smooth functionality, the ecommerce mobile app provides users with a seamless shopping experience, showcasing the versatility of React Native and the efficiency of Expo's development tools.",
   },
 ];
